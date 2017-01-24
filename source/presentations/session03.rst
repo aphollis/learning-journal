@@ -59,6 +59,13 @@ Review of last week
 Homework Review and Questions
 
 
+.. nextslide::
+
+.. rst-class:: large centered
+
+On to Gateways!
+
+
 Previously
 ----------
 
@@ -109,7 +116,6 @@ A computer has an *environment*:
         PS C:\> Get-ChildItem Env:
         ALLUSERSPROFILE             C:\ProgramData
         ...
-
 
 
 .. nextslide:: Setting The Environment
